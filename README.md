@@ -1,7 +1,7 @@
 # How To Customize the React Diagram and Its Elements
-A quick-start React project that shows how to customize the [React Diagram](https://www.syncfusion.com/react-components/react-diagram) and its elements. Learn how to change the page settings, add multiple pages, and change the appearance of the nodes and connectors. 
+A quick-start React project that shows how to customize the [React Diagram](https://www.syncfusion.com/diagram-sdk/react-diagram) and its elements. Learn how to change the page settings, add multiple pages, and change the appearance of the nodes and connectors. 
 
-The [React Diagram](https://www.syncfusion.com/react-components/react-diagram) is a feature-rich component for visualizing, creating, and editing interactive diagrams. It supports creating flowcharts, organizational charts, mind maps, and BPMN charts through code or a visual interface. Grouping is used to cluster multiple nodes and connectors into a single element. A group acts like a container for its children.  
+The [React Diagram](https://www.syncfusion.com/diagram-sdk/react-diagram) is a feature-rich component for visualizing, creating, and editing interactive diagrams. It supports creating flowcharts, organizational charts, mind maps, and BPMN charts through code or a visual interface. Grouping is used to cluster multiple nodes and connectors into a single element. A group acts like a container for its children.  
 
 Documentation: https://ej2.syncfusion.com/react/documentation/diagram/getting-started
 
